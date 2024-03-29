@@ -1,4 +1,4 @@
-# PSL432ControlSystems
+# ML and Control Systems
 My PSL432 Projects
 These are some control projects I have worked on as part of my PSL432 class.
 I list each of them and their descriptions:
