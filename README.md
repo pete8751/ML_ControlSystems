@@ -1,6 +1,6 @@
 # ML and Control Systems
 My PSL432 Projects
-These are some control projects I have worked on as part of my PSL432 class.
+These are some control theory and ML projects I have created on as part of my PSL432 class.
 I list each of them and their descriptions:
 
 - Two_Joint_System.m
