@@ -1,5 +1,4 @@
 # ML and Control Systems
-My PSL432 Projects
 These are some control theory and ML projects I have created on as part of my PSL432 class.
 
 P.S: Unlike my other Machine Learning Projects, I use no external tools or libraries, and simply use Matlab to code my algorithms (Adam, backprop, etc).
